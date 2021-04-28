@@ -76,7 +76,7 @@
   /*------------- Header Start -------------*/
   .header {
     position: relative;
-    background: url("../assets/imgs/header-background.jpg") no-repeat center center/cover;
+    background: url("../assets/Image/header-background.jpg") no-repeat center center/cover;
     height: 1000px;
     padding-bottom: 30rem;
     box-shadow: inset 1rem -50rem 150px rgba(0, 0, 0, 0.5);
@@ -380,7 +380,7 @@ background-color: var(--light-green);
 /* end follow */
 
 .footer{
-  background-image: url("../images/footer-bg.jpg"),-webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0.01) 1%,rgba(0,0,0,0.99) 99%,rgba(0,0,0,1) 100%);
+  background-image: url("../Image/footer-bg.jpg"),-webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,0.01) 1%,rgba(0,0,0,0.99) 99%,rgba(0,0,0,1) 100%);
   background-size: cover; 
   background-repeat: no-repeat;
   color: #fff;
@@ -398,7 +398,7 @@ background-color: var(--light-green);
   grid-gap: 13em;
 }
 .brackets{
-  background-image: url("../images/bracketsfooter.png");
+  background-image: url("../Images/bracketsfooter.png");
   padding: 1.5em 3.5em;
   background-repeat: no-repeat;
   width:20.8em;
