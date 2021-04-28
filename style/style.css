@@ -76,7 +76,7 @@
   /*------------- Header Start -------------*/
   .header {
     position: relative;
-    background: url("../assets/Image/header-background.jpg") no-repeat center center/cover;
+    background: url("../assets/Image/home-bg.jpg") no-repeat center center/cover;
     height: 1000px;
     padding-bottom: 30rem;
     box-shadow: inset 1rem -50rem 150px rgba(0, 0, 0, 0.5);
